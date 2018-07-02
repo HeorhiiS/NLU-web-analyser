@@ -7,19 +7,53 @@ Website analyser for market prediction or other purposes using IBM Watson NLU
 
 
 
-### In application (example: Cryptocurrency): Web crawler or scrapper gets the news report holding HTML data, this data is converted and sent to Watson, with analytics Watson determines if news is negative or positive along with other useful data that can be used for further analytics. If news on crypto are negative then market as volatile as it is is likely to drop (prices per unit crypto), positive is obviously opposite. (THIS IS A PREDICTION NOT A GUARANTEE).
+
+
+
+## ------------------------------------------------------------------------------
 
 
 
 
-## WARNING: LICENCE REMOVES ANY LIABILITY, !!!USE THIS AT YOUR OWN RISK!!!, THIS CODE DOES NOT GUARANTEE ACCURATE PREDICTION NOR DOES IT GUARANTEE RESULTS YOU MAY WANT, IT IS HIGLY SUGGESTED YOU USE THIS CONCEPT AS AN INSPIRATION AND BUILD UPON IT YOUR CUSTOM TOOLS THAT MIGHT BE SUITABLE FOR YOUR NEEDS.
 
 
 
 
-#### Important Note 1: This code is tailored to the application mentioned above (Cryptocurrency);
+
+
+##### In application (example: Cryptocurrency): Web crawler or scrapper gets the news report holding HTML data, this data is converted and sent to Watson, with analytics Watson determines if news is negative or positive along with other useful data that can be used for further analytics. If news on crypto are negative then market as volatile as it is is likely to drop (prices per unit crypto), positive is obviously opposite. (THIS IS A PREDICTION NOT A GUARANTEE).
 
 
 
 
-#### Important Note 2: Suggested use includes imporving trading bot agorithms and strategies. 
+
+
+
+
+
+
+
+
+
+### WARNING: LICENCE REMOVES ANY LIABILITY, !!!USE THIS AT YOUR OWN RISK!!!, THIS CODE DOES NOT GUARANTEE ACCURATE PREDICTION NOR DOES IT GUARANTEE RESULTS YOU MAY WANT, IT IS HIGLY SUGGESTED YOU USE THIS CONCEPT AS AN INSPIRATION AND BUILD UPON IT YOUR CUSTOM TOOLS THAT MIGHT BE SUITABLE FOR YOUR NEEDS.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+##### Important Note 1: This code is tailored to the application mentioned above (Cryptocurrency);
+
+
+
+
+##### Important Note 2: Suggested use includes imporving trading bot agorithms and strategies. 
