@@ -57,3 +57,8 @@ Website analyser for market prediction or other purposes using IBM Watson NLU
 
 
 ##### Important Note 2: Suggested use includes imporving trading bot agorithms and strategies. 
+
+
+
+
+##### Update Note 1: Web interface can be used for displaying data and analytics
