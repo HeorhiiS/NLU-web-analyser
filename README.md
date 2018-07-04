@@ -1,7 +1,7 @@
 # NLU web analyser
 Website analyser for market prediction or other purposes using IBM Watson NLU
 ## -------------------------------------------------------------------------------
-####Supported languages: Arabic, English, French, German, Italian, Japanese, Korean, Portuguese, Russian, Spanish
+#### Supported languages: Arabic, English, French, German, Italian, Japanese, Korean, Portuguese, Russian, Spanish
 
 
 
@@ -41,7 +41,7 @@ Website analyser for market prediction or other purposes using IBM Watson NLU
 
 
 
-##### IT IS HIGLY SUGGESTED YOU USE THIS CONCEPT AS AN INSPIRATION AND BUILD UPON IT YOUR CUSTOM TOOLS THAT MIGHT BE SUITABLE FOR YOUR NEEDS.
+#### IT IS HIGLY SUGGESTED YOU USE THIS CONCEPT AS AN INSPIRATION AND BUILD UPON IT YOUR CUSTOM TOOLS THAT MIGHT BE SUITABLE FOR YOUR NEEDS.
 
 
 
