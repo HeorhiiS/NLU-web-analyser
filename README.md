@@ -15,7 +15,7 @@ Before you start following are required:
 * Matplotlib library
 * Json library
 * IBM cloud account and access to NLU service as well as required libraries ---> see Watson NLU API guide for more
-* Urrlib library
+* Urllib library
 * BeautifulSoup4 library (for Python 3.6X and later)
 
 
