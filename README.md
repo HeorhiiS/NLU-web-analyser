@@ -1,6 +1,12 @@
 # NLU web analyser
 Website analyser for market prediction or other purposes using IBM Watson NLU
 ## -------------------------------------------------------------------------------
+####Supported languages: Arabic, English, French, German, Italian, Japanese, Korean, Portuguese, Russian, Spanish
+
+
+
+
+
 
 #### Introductory info: This tool is an analyser for website's data. Original conept is the idea of additional tool for market analysis, however the overall potential is much broader. In a nutshell, webcrawler or other methods of scraping website are used to get the data which is then uses IBM's powerful framework, hence is sent to Watson for analytics. The result returns the sentiment analysis along with other useful data like concepts, emotions and keywords. Furthermore this process becomes automated and instant, allowing for incredibly fast predictions and actions.
 
@@ -46,11 +52,6 @@ Website analyser for market prediction or other purposes using IBM Watson NLU
 
 
 
-
-
-
-
-
 ##### Important Note 1: This code is tailored to the application mentioned above (Cryptocurrency);
 
 
@@ -61,4 +62,4 @@ Website analyser for market prediction or other purposes using IBM Watson NLU
 
 
 
-##### Update Note 1: Web interface can be used for displaying data and analytics
+##### Update Note 1: Pie chart used to display data
