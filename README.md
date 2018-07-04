@@ -21,7 +21,7 @@ Website analyser for market prediction or other purposes using IBM Watson NLU
 
 
 
-
+#### Crawler ---> Web Data ---> Analyser ---> Watson NLU ---> Analyser ---> Graph (Final data output) 
 
 
 
@@ -41,7 +41,7 @@ Website analyser for market prediction or other purposes using IBM Watson NLU
 
 
 
-### WARNING: LICENCE REMOVES ANY LIABILITY, !!!USE THIS AT YOUR OWN RISK!!!, THIS CODE DOES NOT GUARANTEE ACCURATE PREDICTION NOR DOES IT GUARANTEE RESULTS YOU MAY WANT, IT IS HIGLY SUGGESTED YOU USE THIS CONCEPT AS AN INSPIRATION AND BUILD UPON IT YOUR CUSTOM TOOLS THAT MIGHT BE SUITABLE FOR YOUR NEEDS.
+##### IT IS HIGLY SUGGESTED YOU USE THIS CONCEPT AS AN INSPIRATION AND BUILD UPON IT YOUR CUSTOM TOOLS THAT MIGHT BE SUITABLE FOR YOUR NEEDS.
 
 
 
@@ -52,14 +52,14 @@ Website analyser for market prediction or other purposes using IBM Watson NLU
 
 
 
-##### Important Note 1: This code is tailored to the application mentioned above (Cryptocurrency);
+##### Important Note 1: This code is tailored to the application mentioned above (Cryptocurrency), can be expanded to trading and more;
 
 
 
 
-##### Important Note 2: Suggested use includes imporving trading bot agorithms and strategies. 
+##### Important Note 2: Suggested use includes improving trading bot agorithms and strategies. 
 
 
 
 
-##### Update Note 1: Pie chart used to display data
+##### Update Note: Pie chart used to display data
