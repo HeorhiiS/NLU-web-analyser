@@ -10,9 +10,13 @@ Website analyser for market prediction or other purposes using IBM Watson NLU
 
 #### Introductory info: This tool is an analyser for website's data. Original conept is the idea of additional tool for market analysis, however the overall potential is much broader. In a nutshell, webcrawler or other methods of scraping website are used to get the data which is then uses IBM's powerful framework, hence is sent to Watson for analytics. The result returns the sentiment analysis along with other useful data like concepts, emotions and keywords. Furthermore this process becomes automated and instant, allowing for incredibly fast predictions and actions.
 
+Before you start following are required:
 
-
-
+* Matplotlib library
+* Json library
+* IBM cloud account and access to NLU service as well as required libraries ---> see Watson NLU API guide for more
+* Urrlib library
+* BeautifulSoup4 library (for Python 3.6X and later)
 
 
 
